@@ -1,5 +1,7 @@
 # group_6_project
 
+### Team Members:  Avneet Singh, Manan Wala, Terence Schultz, Kiran Sohi, Sujatha Selvaraj
+
 ## World Carbon Emissions Analysis
 
 Carbon emissions refer to the release of carbon dioxide and other greenhouse gases into the atmosphere. These emissions are primarily caused by the burning of fossil fuels, such as coal, oil, and natural gas, in power plants, transportation, and industrial processes. Additionally, deforestation and other land-use changes can also contribute to carbon emissions.
