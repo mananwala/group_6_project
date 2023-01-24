@@ -42,7 +42,7 @@ Evaluate world carbon and energy consumption based on following:
 * bokeh
 * warnings
 
-## Carbon Emissions - Data Exploration
+## Carbon Emissions
 
 Based on the analyis there is data missing from the Carbon Emissions dataset. Columns 'Coal', 'Oil', 'Gas', 'Cement', 'Flaring' seems to have datapoints unavailable. The 'Other' column has over 61K unknown datapoints. 'Other' is defined as: Carbon Emissions from other forms of industrial processes. (Source: https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022).
 
