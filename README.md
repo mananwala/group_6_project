@@ -1,6 +1,6 @@
 # group_6_project
 
-### Team Members:  Avneet Singh, Manan Wala, Terence Schultz, Kiran Sohi, Sujatha Selvaraj
+#### Team Members:  Avneet Singh, Manan Wala, Terence Schultz, Kiran Sohi, Sujatha Selvaraj
 
 ## World Carbon Emissions Analysis
 
