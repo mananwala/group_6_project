@@ -188,6 +188,7 @@ It is difficult to draw any conclusions based on these correlations except where
 ### Libraries
 
 * sklearn
+* sns
 
 ### Linear Regression Results
 
