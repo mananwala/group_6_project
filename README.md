@@ -46,7 +46,8 @@ Based on the analyis there is data missing from the Carbon Emissions dataset. Co
 
 ### Global Emissions
 
-![Global Carbon Emissions by Yr (2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Global%20Carbon%20Emissions%20by%20Yr%20(2002-2022).png)
+![Global Carbon Emissions by Yr (2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/Global%20Carbon%20Emissions%20by%20Yr%20(2002-2022).png)
+
 
 #### Insight for Global Carbon Emissions
 
@@ -59,7 +60,7 @@ Looking at the Global Carbon Emissions data from the dataset including Coal, Oil
 
 #### Global Carbon Emissions by Continent
 
-![Global Carbon Emissions by Yr (2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Continent%20Carbon%20Emissions%20by%20Yr%20(2002-2022).png)
+![Global Carbon Emissions by Yr (2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/Continent%20Carbon%20Emissions%20by%20Yr%20(2002-2022).png)
 
 Based on above figure, 
 * Coal is the main source of Carbon Emissions in Asia followed Oil, Cement and Gas.
@@ -68,15 +69,15 @@ Based on above figure,
 
 #### Global Carbon Emissions by Continent by Country
 
-![Africa Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/1-Africa%20Carbon%20Emissions.png)
+![Africa Carbon Emissions by Yr by Country(2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/1-Africa%20Carbon%20Emissions.png)
 
-![Americas Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/2-Americas%20Carbon%20Emissions.png)
+![Americas Carbon Emissions by Yr by Country(2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/2-Americas%20Carbon%20Emissions.png)
 
-![Asia Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/3-Asia%20Carbon%20Emissions.png)
+![Asia Carbon Emissions by Yr by Country(2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/3-Asia%20Carbon%20Emissions.png)
 
-![Europe Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/4-Europe%20Carbon%20Emissions.png)
+![Europe Carbon Emissions by Yr by Country(2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/4-Europe%20Carbon%20Emissions.png)
 
-![Oceania Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/3-Asia%20Carbon%20Emissions.png)
+![Oceania Carbon Emissions by Yr by Country(2002-2022)](https://github.com/mananwala/group_6_project/blob/main/Images/5-Oceania.png)
 
 #### Insight
 
@@ -100,19 +101,18 @@ Countries with lowest Carbon Emissions by each Continent are:
 
 ### GeoViews of Country Carbon Emissions
 
-![Country Emissions from 2002-2022](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Country%20Emissions%20from%202002-2022.png)
-
+![Country Emissions from 2002-2022](https://github.com/mananwala/group_6_project/blob/main/Images/Country%20Emissions%20from%202002-2022.png)
 #### Insight
 
 USA and China stand out of the crowd with highest Carbon Emissions
 
 ## World Fuel Production
 
-![Global Gas Production (m³) by Yr (1980-2019)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Global%20Gas%20Production%20(m%C2%B3)%20by%20Yr%20(1980-2019).png)
+![Global Gas Production (m³) by Yr (1980-2019)](https://github.com/mananwala/group_6_project/blob/main/Images/Global%20Gas%20Production%20(m%C2%B3)%20by%20Yr%20(1980-2019).png)
 
-![Global Coal Production (Ton) by Yr (1980-2019)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Global%20Coal%20Production%20(Ton)%20by%20Yr%20(1980-2019).png)
+![Global Coal Production (Ton) by Yr (1980-2019)](https://github.com/mananwala/group_6_project/blob/main/Images/Global%20Coal%20Production%20(Ton)%20by%20Yr%20(1980-2019).png)
 
-![Global Oil Production (m³) by Yr (1980-2019)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Global%20Oil%20Production%20(m%C2%B3)%20by%20Yr%20(1980-2019).png)
+![Global Oil Production (m³) by Yr (1980-2019)](https://github.com/mananwala/group_6_project/blob/main/Images/Global%20Oil%20Production%20(m%C2%B3)%20by%20Yr%20(1980-2019).png)
 
 #### Insight
 
